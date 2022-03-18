@@ -1,4 +1,10 @@
 ### Hi there 👋
+架构师 / 区块链 / 云计算 / 程序开发🐶 /
+
+Rust🦀️ / Golang / Python🐍 / Substrate /
+
+web3.0🔥 / Open Source Developer💕 /
+
 
 <!--
 **peter-jim/peter-jim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
