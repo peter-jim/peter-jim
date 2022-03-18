@@ -1,9 +1,5 @@
 ### Hi there 👋
-架构师 / 区块链 / 云计算 / 程序开发🐶 /
-
-Rust🦀️ / Golang / Python🐍 / Substrate /
-
-web3.0🔥 / Open Source Developer💕 /
+架构师 / 区块链 / 云计算 / 程序开发🐶 / Rust🦀️ / Golang / Python🐍 / Substrate / web3.0🔥 / Open Source Developer💕 /
 
 
 <!--
