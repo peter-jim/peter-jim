@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/🦞_OpenClaw-lobster.pet-FF4500?style=for-the-badge&labelColor=0a0a0f)](https://lobster.pet)&nbsp;
 [![](https://img.shields.io/badge/@兰斯AI-小红书_抖音_视频号-FF2442?style=for-the-badge&labelColor=0a0a0f)](https://www.douyin.com)&nbsp;
 [![](https://img.shields.io/badge/Hetu_Protocol-Product_Leader-7c3aed?style=for-the-badge&labelColor=0a0a0f)](https://hetu.org)&nbsp;
-[![](https://img.shields.io/badge/📮_Contact-deng7209@qq.com-333?style=for-the-badge&labelColor=0a0a0f)](mailto:deng7209@qq.com)
+[![](https://img.shields.io/badge/📮_Contact-lancedeng0@gmail.com-333?style=for-the-badge&labelColor=0a0a0f)](mailto:deng7209@qq.com)
 
 </div>
 
